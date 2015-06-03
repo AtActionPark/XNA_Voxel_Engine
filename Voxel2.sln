@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel2", "Voxel2\Voxel2\Voxel2.csproj", "{3A684FB8-9123-40B6-96FF-341BD9B8E57A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Voxel2Content", "Voxel2\Voxel2Content\Voxel2Content.contentproj", "{842CD6A3-35D5-4774-A736-ACC2FB170E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A684FB8-9123-40B6-96FF-341BD9B8E57A}.Debug|x86.ActiveCfg = Debug|x86
+		{3A684FB8-9123-40B6-96FF-341BD9B8E57A}.Debug|x86.Build.0 = Debug|x86
+		{3A684FB8-9123-40B6-96FF-341BD9B8E57A}.Release|x86.ActiveCfg = Release|x86
+		{3A684FB8-9123-40B6-96FF-341BD9B8E57A}.Release|x86.Build.0 = Release|x86
+		{842CD6A3-35D5-4774-A736-ACC2FB170E1E}.Debug|x86.ActiveCfg = Debug|x86
+		{842CD6A3-35D5-4774-A736-ACC2FB170E1E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

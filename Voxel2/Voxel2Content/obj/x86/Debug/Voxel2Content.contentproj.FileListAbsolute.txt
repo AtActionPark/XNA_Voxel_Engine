@@ -1,0 +1,2 @@
+C:\Documents and Settings\cmatheron\Mes documents\Visual Studio 2010\Projects\Voxel2\Voxel2\Voxel2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\Voxel2\Voxel2\Voxel2Content\obj\x86\Debug\Voxel2Content.contentprojResolveAssemblyReference.cache
